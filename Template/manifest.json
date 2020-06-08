@@ -1,12 +1,12 @@
 {
-  "name": "Hera",
-  "description": "Sky Goddess",
+  "name": "Extension Name",
+  "description": "Extension Description",
   "version": "1.0",
   "permissions": [
     "activeTab"
   ],
   "browser_action": {
-    "default_title": "Pray"
+    "default_title": "Extension Default Title"
   },
   "content_scripts": [
   {
