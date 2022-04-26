@@ -9,8 +9,8 @@
 
 ### MAINTAINERS
 * **Alisson Moretto** | 
-Twitter: <a href="https://twitter.com/A1S0N_">@A1S0N_</a>
-Github: <a href="https://github.com/A1S0N">@A1S0N</a>
+Twitter: <a href="https://twitter.com/UndeadSec">@UndeadSec</a>
+Github: <a href="https://github.com/UndeadSec">@UndeadSec</a>
 
 ### PREREQUISITES
 
