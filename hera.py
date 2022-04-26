@@ -8,7 +8,7 @@
 #                                                    #
 # Telegram Group: https://t.me/UndeadSec             #
 # YouTube Channel: https://youtube.com/c/UndeadSec   #
-# Twitter: https://twitter.com/A1S0N_                #
+# Twitter: https://twitter.com/UndeadSec                #
 #                                                    #
 ######################################################
 
